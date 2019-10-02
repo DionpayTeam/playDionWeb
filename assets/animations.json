@@ -1,0 +1,1453 @@
+{
+  "anims": [
+    {
+      "key": "Car_chees",
+      "frameRate": 3,
+      "repeat": -1,
+      "yoyo": true,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "car01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "car02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "car03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "car04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "car05.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "car06.png"
+        }
+      ]
+    },
+    {
+      "key": "Chip",
+      "frameRate": 12.222222222222221,
+      "repeat": -1,
+      "repeatDelay": 300,
+      "yoyo": true,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "coin01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "coin02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "coin03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "coin04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "coin05.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "coin06.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "coin07.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "coin08.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "coin09.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "coin10.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "coin11.png"
+        }
+      ]
+    },
+    {
+      "key": "Crane00",
+      "frameRate": 7,
+      "repeat": -1,
+      "repeatDelay": 200,
+      "yoyo": true,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "Crane1_01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane1_02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane1_03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane1_04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane1_05.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane1_06.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane1_07.png"
+        }
+      ]
+    },
+    {
+      "key": "Crane01",
+      "frameRate": 4.444444444444444,
+      "repeat": -1,
+      "repeatDelay": 300,
+      "yoyo": true,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "Crane2_01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane2_02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane2_03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane2_04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane2_05.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane2_06.png"
+        }
+      ]
+    },
+    {
+      "key": "Crane02",
+      "frameRate": 3,
+      "repeat": -1,
+      "repeatDelay": 240,
+      "yoyo": true,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "Crane3_01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane3_02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane3_03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane3_04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane3_05.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Crane3_06.png"
+        }
+      ]
+    },
+    {
+      "key": "Monitor",
+      "frameRate": 6,
+      "repeat": -1,
+      "repeatDelay": 300,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "Monitor01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Monitor02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Monitor03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Monitor04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Monitor05.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Monitor06.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Monitor07.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Monitor08.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Monitor09.png"
+        }
+      ]
+    },
+    {
+      "key": "RPG",
+      "frameRate": 10,
+      "repeat": -1,
+      "repeatDelay": 300,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "rpg01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg05.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg06.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg07.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg08.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg09.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg10.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg11.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg12.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg13.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg14.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg15.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg16.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "rpg01.png"
+        }
+      ]
+    },
+    {
+      "key": "Wave01",
+      "frameRate": 7.5,
+      "repeat": -1,
+      "repeatDelay": 600,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "wave02_1.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave02_2.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave02_3.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave02_4.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave02_5.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "Wave02",
+      "frameRate": 6.25,
+      "repeat": -1,
+      "repeatDelay": 600,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "wave03_1.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave03_2.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave03_3.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave03_4.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "Wave03",
+      "frameRate": 6.25,
+      "repeat": -1,
+      "repeatDelay": 600,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "wave04_1.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave04_2.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave04_3.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave04_4.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "Wave04",
+      "frameRate": 7.5,
+      "repeat": -1,
+      "repeatDelay": 600,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "wave05_1.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave05_2.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave05_3.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave05_4.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave05_5.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "Wave05",
+      "frameRate": 7.5,
+      "repeat": -1,
+      "repeatDelay": 600,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "wave06_1.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave06_2.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave06_3.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave06_4.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave06_5.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "Wave06",
+      "frameRate": 7.5,
+      "repeat": -1,
+      "repeatDelay": 600,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "wave07_1.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave07_2.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave07_3.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave07_4.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave07_5.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "Wave07",
+      "frameRate": 6.25,
+      "repeat": -1,
+      "repeatDelay": 600,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "wave08_1.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave08_2.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave08_3.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave08_4.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "Wave08",
+      "frameRate": 6.25,
+      "repeat": -1,
+      "repeatDelay": 600,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "wave09_1.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave09_2.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave09_3.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave09_4.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "Wave09",
+      "frameRate": 7.5,
+      "repeat": -1,
+      "repeatDelay": 600,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "wave10_1.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave10_2.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave10_3.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave10_4.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave10_5.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "Wave10",
+      "frameRate": 6.25,
+      "repeat": -1,
+      "repeatDelay": 600,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "wave11_1.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave11_2.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave11_3.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave11_4.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "Wave11",
+      "frameRate": 6.25,
+      "repeat": -1,
+      "repeatDelay": 600,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "wave12_1.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave12_2.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave12_3.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave12_4.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "Wave12",
+      "frameRate": 7.5,
+      "repeat": -1,
+      "repeatDelay": 600,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "wave13_1.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave13_2.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave13_3.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave13_4.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave13_5.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "Wave13",
+      "frameRate": 6.25,
+      "repeat": -1,
+      "repeatDelay": 600,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "wave14_1.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave14_2.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave14_3.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave14_4.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "Worker00",
+      "frameRate": 11.333333333333334,
+      "repeat": -1,
+      "repeatDelay": 800,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "Worker1_01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_05.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_06.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_07.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_08.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_09.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_10.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_11.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_12.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_13.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_14.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_15.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_16.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_17.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_18.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_19.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_20.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_21.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_22.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_23.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_24.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_25.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_26.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_27.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_28.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_29.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_30.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_31.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_32.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_33.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_34.png"
+        }
+      ]
+    },
+    {
+      "key": "Worker01",
+      "frameRate": 4.166666666666667,
+      "repeat": -1,
+      "yoyo": true,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "Worker2_01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker2_02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker2_03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker2_04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker2_05.png"
+        }
+      ]
+    },
+    {
+      "key": "Worker02",
+      "frameRate": 3.5714285714285716,
+      "repeat": -1,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "Worker3_01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker3_02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker3_03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker3_04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker3_05.png"
+        }
+      ]
+    },
+    {
+      "key": "Wrench",
+      "frameRate": 2,
+      "repeat": -1,
+      "repeatDelay": 600,
+      "yoyo": true,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "Wrench01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Wrench02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Wrench03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Wrench04.png"
+        }
+      ]
+    },
+    {
+      "key": "bl_Action",
+      "frameRate": 4.615384615384615,
+      "repeat": -1,
+      "yoyo": true,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "act01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "act02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "act03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "act04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "act05.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "act06.png"
+        }
+      ]
+    },
+    {
+      "key": "block00",
+      "frameRate": 11.333333333333334,
+      "repeat": -1,
+      "repeatDelay": 1000,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "block01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block05.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block06.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block07.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block08.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block09.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block10.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block11.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block12.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block13.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block14.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block15.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block16.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "block17.png"
+        }
+      ]
+    },
+    {
+      "key": "flag",
+      "frameRate": 10,
+      "repeat": -1,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "Flag01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Flag02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Flag03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Flag04.png"
+        }
+      ]
+    },
+    {
+      "key": "light",
+      "frameRate": 8,
+      "repeat": -1,
+      "yoyo": true,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "light01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "light02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "light03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "light04.png"
+        }
+      ]
+    },
+    {
+      "key": "simul",
+      "frameRate": 4.615384615384615,
+      "repeat": -1,
+      "yoyo": true,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "simulation01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "simulation02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "simulation03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "simulation04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "simulation05.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "simulation06.png"
+        }
+      ]
+    },
+    {
+      "key": "smog",
+      "frameRate": 8,
+      "repeat": -1,
+      "repeatDelay": 500,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "smoke01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke05.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke06.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke07.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke08.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "wave00",
+      "frameRate": 6.25,
+      "repeat": -1,
+      "repeatDelay": 600,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "wave01_1.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave01_2.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave01_3.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "wave01_4.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "smog01",
+      "frameRate": 9,
+      "repeat": -1,
+      "repeatDelay": 800,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "smoke01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke05.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke06.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke07.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke08.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "smog02",
+      "frameRate": 9,
+      "repeat": -1,
+      "repeatDelay": 700,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "smoke01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke05.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke06.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke07.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "smoke08.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "blank.png"
+        }
+      ]
+    },
+    {
+      "key": "worker05",
+      "frameRate": 11.333333333333334,
+      "repeat": -1,
+      "repeatDelay": 300,
+      "showOnStart": true,
+      "frames": [
+        {
+          "key": "playDionData",
+          "frame": "Worker1_01.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_02.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_03.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_04.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_05.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_06.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_07.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_08.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_09.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_10.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_11.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_12.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_13.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_14.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_15.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_16.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_17.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_18.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_19.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_20.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_21.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_22.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_23.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_24.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_25.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_26.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_27.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_28.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_29.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_30.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_31.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_32.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_33.png"
+        },
+        {
+          "key": "playDionData",
+          "frame": "Worker1_34.png"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "Phaser Editor v2",
+    "contentType": "Phaser v3 Animations"
+  }
+}
